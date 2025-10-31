@@ -8,7 +8,7 @@
         <beforeApplicationStartup />
       </update>
     </subscription>
-    <deploymentProvider codebase="https://raw.githubusercontent.com/Frankenstien101/Online-Release/refs/heads/main/AQUILA%20APP.application/AQUILA%20APP.application" />
+<deploymentProvider codebase="https://raw.githubusercontent.com/Frankenstien101/Online-Release/main/AQUILA%20APP.application" />
   </deployment>
   <compatibleFrameworks xmlns="urn:schemas-microsoft-com:clickonce.v2">
     <framework targetVersion="4.7.2" profile="Full" supportedRuntime="4.0.30319" />
